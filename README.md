@@ -145,6 +145,7 @@ For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https:/
 - [Harness Engineering](https://openai.com/index/harness-engineering/): OpenAI's field report on building software with coding agents, repository constraints, automated checks, and human steering.
 - [Codex Orchestration with Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/): A reference architecture that turns project work into isolated, observable coding-agent runs.
 - [How We Built Our Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system): Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability.
+- [Frink](https://github.com/benord-labs/frink): Fine-tuned automation for everyone: visual workflows where AI coding agents (Claude Code, Codex, OpenCode, GitHub Copilot, Cursor) act on your tickets, errors and schedules, and ask before they change anything.
 
 [Factory](https://github.com/owainlewis/factory) is a developer-preview control plane for scheduling and coordinating Pi, Codex, and Claude Code workers across Git repositories.
 
